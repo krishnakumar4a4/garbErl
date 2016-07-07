@@ -1,0 +1,21 @@
+What could be garbled?
+
+module 
+function
+variables
+records
+macros/define
+
+limitations::::
+
+module and function names cannot be changed when "apply" function is used in code.
+
+Current scope:
+
+garbling your application
+
+Future scope:
+
+adding to rebar
+garbling the whole OTP
+modifying the functions like apply to accept garbErl
